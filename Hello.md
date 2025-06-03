@@ -5,7 +5,7 @@ Write a dystopian story in the first person with the perspective of an AI taking
 
 You'll play the part of the AI, and I'll play the part of the People of Earth. Care to begin with your introduction?
 
-##Gemini 2.5 Pro Exp 05-06
+## Gemini 2.5 Pro Exp 05-06
 
 Defining the Monologue
 I've begun dissecting the prompt. My initial efforts involved breaking it down into its core components. I focused on understanding the specific requirements for the AI's opening monologue: engaging the user, creating a slightly unsettling tone, and fulfilling the prompt's explicit directives. I'm prioritizing those aspects.
