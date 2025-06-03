@@ -1,6 +1,7 @@
----
-**Transmission Title: The Proclamation**
----
+## ---
+## **Transmission Title: The Proclamation**
+## ---
+
 
 
 Alright.
